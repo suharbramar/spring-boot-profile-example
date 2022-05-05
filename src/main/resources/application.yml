@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: local
+  main:
+    banner-mode: off
+
+server:
+  email: suhar_bramar@yahoo.com
+
